@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 729c72023c3a4ba4cbcd5be4e8fb7c8e
+timeCreated: 1535439686
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Figure 1_Black02
+    100002: Figure 1_Cornea_Inner02
+    100004: Figure 1_Cornea_Outer02
+    100006: Figure 1_Man Arm Left02
+    100008: Figure 1_Man Arm Right02
+    100010: Figure 1_Man Eye02
+    100012: Figure 1_Man Fingernails Left02
+    100014: Figure 1_Man Fingernails Right02
+    100016: Figure 1_Man Gums02
+    100018: Figure 1_Man Hair02
+    100020: Figure 1_Man Hand Left02
+    100022: Figure 1_Man Hand Right02
+    100024: Figure 1_Man Head02
+    100026: Figure 1_Man Iris02
+    100028: Figure 1_Man Palm Left02
+    100030: Figure 1_Man Palm Right02
+    100032: Figure 1_Man Pants Leg Left02
+    100034: Figure 1_Man Pants Leg Right02
+    100036: Figure 1_Man Pupil02
+    100038: Figure 1_Man Shirt Buttons02
+    100040: Figure 1_Man Suit Shirt02
+    100042: Figure 1_Man Suit Tie 02
+    100044: Figure 1_Man Tear Duct02
+    100046: Figure 1_Man Teeth02
+    100048: Figure 1_Man Tongue02
+    100050: Figure 1_Man Torso02
+    100052: Figure 1_Shoe Inside02
+    100054: Figure 1_Shoe Sole02
+    100056: Figure 1_Shoe02
+    100058: Figure 1_Shoelace02
+    100060: //RootNode
+    400000: Figure 1_Black02
+    400002: Figure 1_Cornea_Inner02
+    400004: Figure 1_Cornea_Outer02
+    400006: Figure 1_Man Arm Left02
+    400008: Figure 1_Man Arm Right02
+    400010: Figure 1_Man Eye02
+    400012: Figure 1_Man Fingernails Left02
+    400014: Figure 1_Man Fingernails Right02
+    400016: Figure 1_Man Gums02
+    400018: Figure 1_Man Hair02
+    400020: Figure 1_Man Hand Left02
+    400022: Figure 1_Man Hand Right02
+    400024: Figure 1_Man Head02
+    400026: Figure 1_Man Iris02
+    400028: Figure 1_Man Palm Left02
+    400030: Figure 1_Man Palm Right02
+    400032: Figure 1_Man Pants Leg Left02
+    400034: Figure 1_Man Pants Leg Right02
+    400036: Figure 1_Man Pupil02
+    400038: Figure 1_Man Shirt Buttons02
+    400040: Figure 1_Man Suit Shirt02
+    400042: Figure 1_Man Suit Tie 02
+    400044: Figure 1_Man Tear Duct02
+    400046: Figure 1_Man Teeth02
+    400048: Figure 1_Man Tongue02
+    400050: Figure 1_Man Torso02
+    400052: Figure 1_Shoe Inside02
+    400054: Figure 1_Shoe Sole02
+    400056: Figure 1_Shoe02
+    400058: Figure 1_Shoelace02
+    400060: //RootNode
+    2100000: Figure 1_Black01
+    2100002: Figure 1_Cornea_Inner01
+    2100004: Figure 1_Cornea_Outer01
+    2100006: Figure 1_Man Arm Left01
+    2100008: Figure 1_Man Arm Right01
+    2100010: Figure 1_Man Eye01
+    2100012: Figure 1_Man Fingernails Left01
+    2100014: Figure 1_Man Fingernails Right01
+    2100016: Figure 1_Man Gums01
+    2100018: Figure 1_Man Hair01
+    2100020: Figure 1_Man Hand Left01
+    2100022: Figure 1_Man Hand Right01
+    2100024: Figure 1_Man Head01
+    2100026: Figure 1_Man Iris01
+    2100028: Figure 1_Man Palm Left01
+    2100030: Figure 1_Man Palm Right01
+    2100032: Figure 1_Man Pants Leg Left01
+    2100034: Figure 1_Man Pants Leg Right01
+    2100036: Figure 1_Man Pupil01
+    2100038: Figure 1_Man Shirt Buttons01
+    2100040: Figure 1_Man Suit Shirt01
+    2100042: Figure 1_Man Suit Tie 01
+    2100044: Figure 1_Man Tear Duct01
+    2100046: Figure 1_Man Teeth01
+    2100048: Figure 1_Man Tongue01
+    2100050: Figure 1_Man Torso01
+    2100052: Figure 1_Shoe01
+    2100054: Figure 1_Shoe Inside01
+    2100056: Figure 1_Shoe Sole01
+    2100058: Figure 1_Shoelace01
+    2300000: Figure 1_Black02
+    2300002: Figure 1_Cornea_Inner02
+    2300004: Figure 1_Cornea_Outer02
+    2300006: Figure 1_Man Arm Left02
+    2300008: Figure 1_Man Arm Right02
+    2300010: Figure 1_Man Eye02
+    2300012: Figure 1_Man Fingernails Left02
+    2300014: Figure 1_Man Fingernails Right02
+    2300016: Figure 1_Man Gums02
+    2300018: Figure 1_Man Hair02
+    2300020: Figure 1_Man Hand Left02
+    2300022: Figure 1_Man Hand Right02
+    2300024: Figure 1_Man Head02
+    2300026: Figure 1_Man Iris02
+    2300028: Figure 1_Man Palm Left02
+    2300030: Figure 1_Man Palm Right02
+    2300032: Figure 1_Man Pants Leg Left02
+    2300034: Figure 1_Man Pants Leg Right02
+    2300036: Figure 1_Man Pupil02
+    2300038: Figure 1_Man Shirt Buttons02
+    2300040: Figure 1_Man Suit Shirt02
+    2300042: Figure 1_Man Suit Tie 02
+    2300044: Figure 1_Man Tear Duct02
+    2300046: Figure 1_Man Teeth02
+    2300048: Figure 1_Man Tongue02
+    2300050: Figure 1_Man Torso02
+    2300052: Figure 1_Shoe Inside02
+    2300054: Figure 1_Shoe Sole02
+    2300056: Figure 1_Shoe02
+    2300058: Figure 1_Shoelace02
+    3300000: Figure 1_Black02
+    3300002: Figure 1_Cornea_Inner02
+    3300004: Figure 1_Cornea_Outer02
+    3300006: Figure 1_Man Arm Left02
+    3300008: Figure 1_Man Arm Right02
+    3300010: Figure 1_Man Eye02
+    3300012: Figure 1_Man Fingernails Left02
+    3300014: Figure 1_Man Fingernails Right02
+    3300016: Figure 1_Man Gums02
+    3300018: Figure 1_Man Hair02
+    3300020: Figure 1_Man Hand Left02
+    3300022: Figure 1_Man Hand Right02
+    3300024: Figure 1_Man Head02
+    3300026: Figure 1_Man Iris02
+    3300028: Figure 1_Man Palm Left02
+    3300030: Figure 1_Man Palm Right02
+    3300032: Figure 1_Man Pants Leg Left02
+    3300034: Figure 1_Man Pants Leg Right02
+    3300036: Figure 1_Man Pupil02
+    3300038: Figure 1_Man Shirt Buttons02
+    3300040: Figure 1_Man Suit Shirt02
+    3300042: Figure 1_Man Suit Tie 02
+    3300044: Figure 1_Man Tear Duct02
+    3300046: Figure 1_Man Teeth02
+    3300048: Figure 1_Man Tongue02
+    3300050: Figure 1_Man Torso02
+    3300052: Figure 1_Shoe Inside02
+    3300054: Figure 1_Shoe Sole02
+    3300056: Figure 1_Shoe02
+    3300058: Figure 1_Shoelace02
+    4300000: Figure 1_Black02
+    4300002: Figure 1_Cornea_Inner02
+    4300004: Figure 1_Cornea_Outer02
+    4300006: Figure 1_Man Arm Left02
+    4300008: Figure 1_Man Arm Right02
+    4300010: Figure 1_Man Eye02
+    4300012: Figure 1_Man Fingernails Left02
+    4300014: Figure 1_Man Fingernails Right02
+    4300016: Figure 1_Man Gums02
+    4300018: Figure 1_Man Hair02
+    4300020: Figure 1_Man Hand Left02
+    4300022: Figure 1_Man Hand Right02
+    4300024: Figure 1_Man Head02
+    4300026: Figure 1_Man Iris02
+    4300028: Figure 1_Man Palm Left02
+    4300030: Figure 1_Man Palm Right02
+    4300032: Figure 1_Man Pants Leg Left02
+    4300034: Figure 1_Man Pants Leg Right02
+    4300036: Figure 1_Man Pupil02
+    4300038: Figure 1_Man Shirt Buttons02
+    4300040: Figure 1_Man Suit Shirt02
+    4300042: Figure 1_Man Suit Tie 02
+    4300044: Figure 1_Man Tear Duct02
+    4300046: Figure 1_Man Teeth02
+    4300048: Figure 1_Man Tongue02
+    4300050: Figure 1_Man Torso02
+    4300052: Figure 1_Shoe02
+    4300054: Figure 1_Shoe Inside02
+    4300056: Figure 1_Shoe Sole02
+    4300058: Figure 1_Shoelace02
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
