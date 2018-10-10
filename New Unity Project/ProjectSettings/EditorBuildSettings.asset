@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/24 - Surface Shader Example.unity
+    guid: 30403b31ca117ef43a0231b0e614160a
+  - enabled: 1
+    path: Assets/russian_buildings_low/scenes/demo_scene_low.unity
+    guid: 20f3bc9190f11f145921524eb0235336
